@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/tab_home"
+        android:icon="@drawable/tab_home"
+        android:title="首页"/>
+    <item
+        android:id="@+id/tab_system"
+        android:icon="@drawable/tab_system"
+        android:title="体系"/>
+    <item
+        android:id="@+id/tab_article"
+        android:icon="@drawable/tab_article"
+        android:title="文章"
+        />
+    <item
+        android:id="@+id/tab_public"
+        android:icon="@drawable/tab_public"
+        android:title="公众号"/>
+    <item
+        android:id="@+id/tab_mine"
+        android:icon="@drawable/tab_mine"
+        android:title="我的"/>
+</menu>
